@@ -1,4 +1,4 @@
-# VTP Attack - Seguridad de Redes
+# VTP Attack
 
 Estudiante: Nathalie Gómez Suriel
 
