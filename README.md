@@ -4,8 +4,10 @@ Estudiante: Nathalie Gómez Suriel
 
 Matrícula: 2024-0962
 
-Materia: Seguridad de Redes - ITLA
+Materia: Seguridad de Redes
 
 Docente: Jonathan Esteban Rodon Corniel
 
-Descripción: Demostración de ataque VTP y su contramedida.
+Vídeo: 
+
+Documentación:
